@@ -1,0 +1,25 @@
+{
+  "type": "Feature",
+  "properties": {
+    "id": "EmiratesAirLine",
+    "lines": [
+      {
+        "name": "IFS Cloud Cable Car",
+        "opened": 2012
+      }
+    ]
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        0.008211388113743,
+        51.499686561807074
+      ],
+      [
+        0.018085584590649,
+        51.50776656759159
+      ]
+    ]
+  }
+}
